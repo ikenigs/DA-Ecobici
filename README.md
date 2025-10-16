@@ -7,7 +7,7 @@ This project analyzes Ecobici’s 2023 operations to provide insights that can h
 Through a detailed analysis of millions of trips, this project explores **when**, **where**, and **how** residents use the bikes, uncovering opportunities for improvement in **operations**, **user experience**, and **data modeling**.  
 
 > 📊 Full presentation of findings available here:  
-> [🎥 **Ecobici 2023 - Pedaling Towards Success (PDF)**](Ecobici%202023%20Challenge.pdf)
+> [🎥 **Ecobici 2023 - Pedaling Towards Success (PDF)**](https://github.com/ikenigs/DA-Ecobici/blob/main/Ecobici%202023.pdf)
 
 ---
 
