@@ -116,6 +116,3 @@ To achieve an **18% increase in adoption**, Ecobici should act on **three pillar
 - **geopandas / folium** – geospatial mapping  
 - **Excel / CSV** – data import and preprocessing  
 
----
-
-### 📂 Repository Structure  
